@@ -14,7 +14,7 @@ else:
 
 setup(
    name='ricekey',
-   version='1.0.0',
+   version='1.0.1',
    description='OS-agnostic threaded keypress event detector for killing loops.',
    long_description=long_description,
    author='Kevin Sacca',
